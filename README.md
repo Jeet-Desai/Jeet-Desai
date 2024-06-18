@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jeet-Desai
 - I study at Dhirubhai Ambani Institute of Information and Communication Technology
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
+- 👀 I love music and coding!
 
 
 <!---
