@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeet-Desai
 - I study at Dhirubhai Ambani Institute of Information and Communication Technology
-- 👀 I love music and coding!
+- I love music and coding!
 
 
 <!---
